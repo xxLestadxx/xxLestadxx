@@ -6,7 +6,7 @@ Born and currently living in Varna, Bulgaria. I have an affinity for blockchain 
 
 <h3 align="left">Some of the things I accomplished:</h3>
 <ul>
-  <li>Bsc in Computer Science from University of Stirling 🎓</li>
+  <li>BSc in Computer Science from University of Stirling 🎓</li>
   <li>Won Odyssey Momentum Hackathon in 2020 :octocat: </li>
   <li>Had a public presentation at the Dev.bg platform march 2023 on the topic "European Blockchain Services Infrastructure and their digital identity wallet" :bowtie: </li>
 </ul>
@@ -25,7 +25,7 @@ Born and currently living in Varna, Bulgaria. I have an affinity for blockchain 
 |:---|---|
 |Frontend|![TypeScript](https://img.shields.io/badge/-TypeScript-050F2C?style=flat&logo=typescript)&nbsp;|
 |Backend|![Python](https://img.shields.io/badge/-Python-050F2C?style=flat&logo=python)&nbsp;![Basg](https://img.shields.io/badge/-Bash-050F2C?style=flat&logo=gnubash)&nbsp;![Java](https://img.shields.io/badge/-Java-050F2C?style=flat&logo=java&logoColor=FFA518)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-050F2C?style=flat&logo=javascript)&nbsp;|
-|Database|![MySQL](https://img.shields.io/badge/-MySQL-050F2C?style=flat&logo=mysql)&nbsp;![InfluxDB 2.0](https://img.shields.io/badge/-InfluxDB%202.0-050F2C?style=flat&logo=influxdb)&nbsp;![Neo4J](https://img.shields.io/badge/-Neo4J-050F2C?style=flat&logo=neo4j)&nbsp;|
+|Database|![MySQL](https://img.shields.io/badge/-MySQL-050F2C?style=flat&logo=mysql)&nbsp;![InfluxDB 2.0](https://img.shields.io/badge/-InfluxDB%202.0-050F2C?style=flat&logo=influxdb)&nbsp;![Neo4J](https://img.shields.io/badge/-Neo4J-050F2C?style=flat&logo=neo4j)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-050F2C?style=flat&logo=mongoDB)&nbsp;|
 |Infrastructure|![Docker](https://img.shields.io/badge/-Docker-050F2C?style=flat&logo=docker)&nbsp;|
 |CI/CD|![GitHub Actions](https://img.shields.io/badge/Github%20Actions-050F2C.svg?style=flat&logo=githubactions&logoColor=white)&nbsp;|
 |Workspace|![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050F2C?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![IntelliJ](https://img.shields.io/badge/-IntelliJ-050F2C?style=flat&logo=IntelliJIDEA)&nbsp;![Git](https://img.shields.io/badge/-Git-050F2C?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-050F2C?style=flat&logo=github)&nbsp;![Jira](https://img.shields.io/badge/-Jira-050F2C?style=flat&logo=jira)&nbsp;|
