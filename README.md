@@ -40,7 +40,7 @@ Born and currently living in Varna, Bulgaria. I have an affinity for blockchain 
 
 ## 📊 My Github Stats
 <p align="center">
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=algolia" />
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=profjordanov&include_all_commits=true&theme=algolia" />
-  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=algolia" />
+  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=xxLestadxx&show_icons=true&include_all_commits=true&theme=algolia" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxLestadxx&include_all_commits=true&theme=algolia" />
+  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xxLestadxx&layout=compact&theme=algolia" />
 </p>
