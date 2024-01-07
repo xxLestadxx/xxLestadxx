@@ -8,7 +8,7 @@ Born and currently living in Varna, Bulgaria. I have an affinity for blockchain 
 <ul>
   <li>BSc in Computer Science from University of Stirling 🎓</li>
   <li>Won Odyssey Momentum Hackathon in 2020 :octocat: </li>
-  <li>Had a public presentation at the Dev.bg platform march 2023 on the topic "European Blockchain Services Infrastructure and their digital identity wallet" :bowtie: </li>
+  <li>Had a live video public presentation at the Dev.bg platform march 2023 on the topic "European Blockchain Services Infrastructure and their digital identity wallet" :bowtie: </li>
 </ul>
 
 <h3 align="left">Some of the things I enjoy:</h3>
