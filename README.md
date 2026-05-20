@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me 
 
-Born and currently living in Sofia, Bulgaria. I have an affinity for blockchain technologies.
+Currently living in Sofia, Bulgaria. I have an affinity for blockchain technologies.
 
 <h3 align="left">Some of the things I accomplished:</h3>
 <ul>
